@@ -12,17 +12,17 @@ The *Real-Time Hedera Transaction Tracker* is a web application that monitors *H
 ## 📸 Screenshots  
 
 ### *Dashboard UI*    
-![Screenshot_2025-03-08_131444 1](https://github.com/user-attachments/assets/1d922d72-0c23-4e49-a22a-014eef22f3ce)
+![Screenshot_2025-03-08_131444 1](https://github.com/user-attachments/assets/e5c4e37c-983e-4bfc-8609-d1706bb433ad)
 
 ### *Searched Transaction*
-![WhatsApp Image 2025-03-08 at 13 33 56_02e028e8](https://github.com/user-attachments/assets/c41513ed-fe60-4bbb-b178-d6253bb2cea7)
+![WhatsApp Image 2025-03-08 at 13 33 56_68ead78a](https://github.com/user-attachments/assets/b73e3fcd-8fec-45c3-b215-86fe7b818154)
 
 
 ### *Transaction List*  
-![Screenshot_2025-03-08_131457 1](https://github.com/user-attachments/assets/ffbe9e34-461c-4469-863f-aad144846a2c)
+![Screenshot_2025-03-08_131457 1](https://github.com/user-attachments/assets/72a325ff-c5dd-4e90-b84d-e8546af639bc)
  
 ### *Graph*  
-![Screenshot_2025-03-08_131509 1](https://github.com/user-attachments/assets/a1529c64-45db-4917-8705-98a6dc8b683a)
+![Screenshot_2025-03-08_131509 1](https://github.com/user-attachments/assets/c24b6531-20cb-4d2c-91d1-f8092a15c6f7)
 
 ---
 
